@@ -5,6 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import ImgWall from './node_modules/vue-imgwall/src/components/HelloWorld.vue';
 
 export default {
   name: 'App',
